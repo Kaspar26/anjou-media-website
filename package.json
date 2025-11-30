@@ -1,0 +1,20 @@
+{
+  "name": "anjou-media-website",
+  "version": "1.0.0",
+  "description": "Anjou Media - Analytics & AdTech für deutsche Verlage",
+  "scripts": {
+    "dev": "npx serve . -p 3000",
+    "build": "echo 'Static site - no build required'",
+    "start": "npx serve . -p 3000"
+  },
+  "keywords": [
+    "anjou",
+    "media",
+    "analytics",
+    "publisher",
+    "german"
+  ],
+  "author": "Anjou Media",
+  "license": "UNLICENSED",
+  "private": true
+}
